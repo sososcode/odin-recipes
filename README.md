@@ -1,0 +1,1 @@
+I created a recipe website. Very well went creating files, directories and commiting to git. I had issues with saving downloaded images to the wrong location, yet I managed to fix it and organize images and files accordingly. This exercise definitely helped me deepen my understanding and skill for git and the terminal.
